@@ -102,5 +102,5 @@ in.theimperative.task1apitransaction
 ## ✍️ Author
 
 **Manoj Kale**  
-📧 [your.email@example.com](mailto:manojkale2000@gmail.com)  
+📧 [manojkale2000@gmail.com](mailto:manojkale2000@gmail.com)  
 🔗 [https://github.com/manoj2000-crypto](https://github.com/manoj2000-crypto)
