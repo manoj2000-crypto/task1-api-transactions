@@ -22,7 +22,7 @@ This Android app demonstrates secure login, biometric authentication, and transa
 ## 🛠️ Setup Instructions
 
 ### Prerequisites:
-- Android Studio Giraffe or newer  
+- Android Studio Meerkat  
 - Java 11  
 - Minimum SDK 24 (Android 7.0+)
 
@@ -47,7 +47,7 @@ cd task1-api-transactions
 
 ```
 Username: admin
-Password: A7ge#hu&dt(wer
+Password: -----
 ```
 
 ---
@@ -102,5 +102,5 @@ in.theimperative.task1apitransaction
 ## ✍️ Author
 
 **Manoj Kale**  
-📧 [your.email@example.com](mailto:your.email@example.com)  
+📧 [your.email@example.com](mailto:manojkale2000@gmail.com)  
 🔗 [https://github.com/manoj2000-crypto](https://github.com/manoj2000-crypto)
