@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import in.theimperative.task1apitransaction.ui.biometric.BiometricActivity;
 import in.theimperative.task1apitransaction.ui.login.LoginActivity;
 import in.theimperative.task1apitransaction.utils.TokenManager;
 

@@ -25,7 +25,7 @@ public class TransactionRepository {
     public LiveData<List<Transaction>> getTransactions(String token, MutableLiveData<Boolean> unauthorized) {
         MutableLiveData<List<Transaction>> result = new MutableLiveData<>();
 
-        apiService.getTransactions("Bearer " + token).enqueue(new Callback<List<Transaction>>() {
+        apiService.getTransactions(token).enqueue(new Callback<List<Transaction>>() {
             @Override
             public void onResponse(Call<List<Transaction>> call, Response<List<Transaction>> response) {
                 if (response.code() == 401) {

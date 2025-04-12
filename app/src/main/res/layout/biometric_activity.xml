@@ -9,7 +9,7 @@
         android:id="@+id/progressBar"
         android:layout_width="48dp"
         android:layout_height="48dp"
-        app:indeterminate="true"
+        android:indeterminate="true"
         app:indicatorSize="48dp"
         app:layout_constraintBottom_toTopOf="@id/tvMessage"
         app:layout_constraintEnd_toEndOf="parent"
