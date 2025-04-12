@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task1ApiTransaction</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="waiting_for_biometric_authentication">Waiting for biometric authentication...</string>
+    <string name="logout">Logout</string>
+</resources>
